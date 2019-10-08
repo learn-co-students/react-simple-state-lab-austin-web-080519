@@ -11,6 +11,7 @@
     ]
   },
   "dependencies": {
+    "learn-browser": "^0.1.24",
     "mocha-multi": "^1.0.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -34,5 +35,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewrosario/react-simple-state-lab-austin-web-080519.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewrosario/react-simple-state-lab-austin-web-080519/issues"
+  },
+  "homepage": "https://github.com/andrewrosario/react-simple-state-lab-austin-web-080519#readme"
 }
